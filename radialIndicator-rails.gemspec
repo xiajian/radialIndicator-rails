@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This is a rails assets gem that packaged s-yadav's radialIndicator(圆形图形指示器)}
   spec.description   = %q{s-yadav's radialIndicator Rails assets 打包, 是一款轻量级的图形指示器。 }
-  spec.homepage      = "https://github.com:xiajian/radialIndicator-rails"
+  spec.homepage      = "https://github.com/xiajian/radialIndicator-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
